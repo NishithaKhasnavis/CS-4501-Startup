@@ -19,3 +19,7 @@ Companies input filters, preferences, must haves. Job seekers input experiences.
 Insures the best fit for best job and growth opportunity (possibly guaranteed match).
 Saves time for recruitment teams and appliers.
   Similar to Fountain
+
+Idea 5 - 
+A browser extension type app paired with a writing add-on that automatically builds the reference list for your assignments, papers and presentations from the websites you actually used. While you visit online websites/papers/ai models, it records the pages you visit, how long/closely you read them (maybe how far down you scrolled), and any text you copy. When you’re done writing, it compares your document/presentation against those pages to find direct quotes and paraphrased ideas, then adds properly formatted citations for every source you drew from. The reference list can possibly carry an invisible watermark so it can be verified, while the citations are normal and can be chosen from APA/MLA/etc. 
+  Purpose is to help students and writers never forget or miss a source. It could also be used by educators to enforce a method to prevent plagiarism, encourage diverse sources and check that the sources used are credible.
